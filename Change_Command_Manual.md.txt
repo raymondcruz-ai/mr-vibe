@@ -1,0 +1,85 @@
+Got it ✅ — here’s your GitHub-ready Markdown version of the Change Command Manual.
+You can copy this into a .md file and upload it directly to your GitHub repo — it will render cleanly with headings, tables, and bold emphasis.
+
+Markdown# 📄 Change Command Manual
+**Bootcamp Edition – Intake + Progress Tracker**
+
+**Name:** ___________________________  
+**Date:** ___________________________  
+**Session #:** ___________________________  
+
+---
+
+## 1. Mission Briefing (Intake)
+
+**State the Problem:**  
+___________________________________________________________  
+
+**Define the Goal (Measurable):**  
+___________________________________________________________  
+
+**Commitment Rating:**  
+- **Importance (1–10):** ___  
+- **Readiness (1–10):** ___  
+If below 8, explain: ________________________________________  
+
+**Top 3 Reasons You Must Change:**  
+1. ___________________________________  
+2. ___________________________________  
+3. ___________________________________  
+
+**Obstacles to Eliminate:**  
+___________________________________________________________  
+
+**Assets to Leverage:**  
+___________________________________________________________  
+
+**Immediate Action (Next 24 Hours):**  
+___________________________________________________________  
+
+**Signature (Commitment Contract):** ________________________  
+
+---
+
+## 2. Mission Execution (Progress Tracker)
+
+**Mission Objective:**  
+___________________________________________________________  
+
+**Start Date:** ___________ **Target Date:** ___________  
+
+### Weekly Battle Plan
+| Week # | Target Action(s) | Completion (✔/✘) | Notes / Adjustments |
+|--------|------------------|------------------|---------------------|
+| 1      |                  |                  |                     |
+| 2      |                  |                  |                     |
+| 3      |                  |                  |                     |
+| 4      |                  |                  |                     |
+
+### Daily Discipline Log
+| Date       | Task(s) Completed | Effort (1–10) | Obstacles Faced | Next Step |
+|------------|-------------------|---------------|-----------------|-----------|
+|            |                   |               |                 |           |
+
+### Weekly Debrief
+- **Wins:** ___________________________________________  
+- **Losses:** _________________________________________  
+- **Corrections:** ____________________________________  
+
+### Final Review
+- **Mission Status:** ☐ Achieved ☐ Not Achieved  
+- **Lessons Learned:** ________________________________  
+- **Next Mission:** ___________________________________  
+
+---
+
+
+💡 How to upload to GitHub:
+
+Copy the above into a text editor and save as Change_Command_Manual.md.
+Go to your GitHub repository.
+Click Add file → Upload files.
+Select the .md file and click Commit changes.
+
+If you want, I can also add GitHub badges, a table of contents, and a “How to Use” section so it looks like a professional open-source project.
+Do you want me to upgrade it to that polished, public-ready version?
